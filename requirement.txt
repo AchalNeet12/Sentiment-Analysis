@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib.pyplot
+pickel
+re
+nltk
+scikit-learn
+streamlit
+base64
